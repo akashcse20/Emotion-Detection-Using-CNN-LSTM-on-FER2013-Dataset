@@ -80,17 +80,18 @@ emotion = predict_emotion('your_image.png')
 print("Predicted Emotion:", emotion)
 🎯 The model returns one of:
 ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
-
+---
 📊 Visualizations
 📌 Feature	📷 Example
 📉 Training Curve	Accuracy & Loss Graphs
 📊 Confusion Matrix	Emotion-wise Accuracy
 🔍 Prediction Examples	Real input vs Output
+---
 📜 License
 This repository is the original work of Md. Akash Hosen.
 It is protected by a custom license – please do not reuse, redistribute, or modify without permission.
 👉 Want to use it? Kindly contact the author first.
-
+---
 👨‍💻 Author
 Md. Akash Hosen
 🎓 Computer Science and Engineering | 💡 Deep Learning Enthusiast
