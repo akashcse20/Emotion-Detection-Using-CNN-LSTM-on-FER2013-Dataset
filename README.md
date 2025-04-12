@@ -92,8 +92,10 @@ It is protected by a custom license – please do not reuse, redistribute, or mo
 
 ---
 ## 👨‍💻 Author
+---
 Md. Akash Hosen
 🎓 Computer Science and Engineering | 💡 Deep Learning Enthusiast
+
 🌐 GitHub   |   ✉️ akashcse20@gmail.com
----
+
 
