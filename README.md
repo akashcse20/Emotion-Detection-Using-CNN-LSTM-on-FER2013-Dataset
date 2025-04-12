@@ -1,11 +1,14 @@
 🧠 Facial Emotion Recognition with CNN-LSTM
-🚀 Trained on FER-2013 Dataset | 🏆 Accuracy Achieved: 84%
-📌 Project Summary: Facial Emotion Recognition (FER) is a powerful tool in computer vision that helps machines understand human emotions through facial expressions.
-In this project, we propose a hybrid CNN-LSTM architecture that excels at recognizing 7 core emotions from grayscale face images.
 
+🚀 Trained on FER-2013 Dataset | 🏆 Accuracy Achieved: 84%
+
+📌 Project Summary: Facial Emotion Recognition (FER) is a powerful tool in computer vision that helps machines understand human emotions through facial expressions. 
+
+In this project, we propose a hybrid CNN-LSTM architecture that excels at recognizing 7 core emotions from grayscale face images.
 💡 Model Accuracy: 84% using the FER-2013 dataset
 🤖 Architecture: CNN for spatial features + LSTM for temporal representation
 📊 Output: Emotion classification + Performance visualization
+
 
 🗂️ Dataset: FER-2013
 Property	Description
