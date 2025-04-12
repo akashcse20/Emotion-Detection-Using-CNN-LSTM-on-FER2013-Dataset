@@ -89,10 +89,11 @@ This repository is the original work of Md. Akash Hosen.
 It is protected by a custom license – please do not reuse, redistribute, or modify without prior permission.
 
 👉 Want to use this project? Kindly contact the author first.
+
 ---
-👨‍💻 Author
+## 👨‍💻 Author
 Md. Akash Hosen
 🎓 Computer Science and Engineering | 💡 Deep Learning Enthusiast
 🌐 GitHub   |   ✉️ akashcse20@gmail.com
-
+---
 
