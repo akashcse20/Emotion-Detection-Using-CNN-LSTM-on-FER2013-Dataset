@@ -91,9 +91,7 @@ It is protected by a custom license – please do not reuse, redistribute, or mo
 👉 Want to use this project? Kindly contact the author first.
 
 ---
-## 👨‍💻 Author
-
-Md. Akash Hosen
+## 👨‍💻 Md. Akash Hosen
 ---
 🎓 Computer Science and Engineering | 💡 Deep Learning Enthusiast
 
