@@ -72,37 +72,25 @@ Edit
   ![Prediction Example](https://github.com/user-attachments/assets/8ba777fb-2689-44a2-a5cc-c19a621e1d3d)
 
 ---
-
 ## 🧪 Run Inference
 
-# python
-
+```python
+# Example: Predict emotion from an image
 emotion = predict_emotion('your_image.png')
-
 print("Predicted Emotion:", emotion)
-
-🎯 The model returns one of:
+🎯 The model returns one of the following emotions:
 
 ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
 
-
 📜 License
-
 This repository is the original work of Md. Akash Hosen.
+It is protected by a custom license – please do not reuse, redistribute, or modify without prior permission.
 
-It is protected by a custom license – please do not reuse, redistribute, or modify without permission.
-
-👉 Want to use it? Kindly contact the author first.
-
+👉 Want to use this project? Kindly contact the author first.
 
 👨‍💻 Author
-
 Md. Akash Hosen
-
 🎓 Computer Science and Engineering | 💡 Deep Learning Enthusiast
-
-🌐 GitHub | ✉️ akashcse20@gmail.com
-
-
+🌐 GitHub   |   ✉️ akashcse20@gmail.com
 
 
