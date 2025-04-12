@@ -78,6 +78,7 @@ Edit
 # Example: Predict emotion from an image
 emotion = predict_emotion('your_image.png')
 print("Predicted Emotion:", emotion)
+```
 🎯 The model returns one of the following emotions:
 
 ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
